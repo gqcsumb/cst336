@@ -7,5 +7,7 @@
 echo "Gabriel Quan's CST336 Home Page";
 
 ?>
+<br><br>
+<a href="labs/lab1/index.html"> Lab 1 </a>
 </body>
 </html>
