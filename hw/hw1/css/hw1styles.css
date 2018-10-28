@@ -1,0 +1,55 @@
+header, main, nav, footer, body {
+    text-align:center;
+}
+
+header {
+    background-color: #12354a;
+}
+
+main {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 3.5em;
+    margin-bottom: 50px;
+}
+
+body{
+    background-color:white;
+    color:white;
+    font-size: 1.4em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+nav a { /* links within "nav" container */
+    padding: 50px;
+    padding-bottom: 1px;
+    font-size: 1.4em;
+    text-decoration: none;   /* removes underline */
+    color: black;            /* by default, links are blue */
+    font-weight: lighter;
+}
+
+nav a:hover {    /*pseudo class*/
+    color: lightblue;
+    transition: .3s;    /* transition effect */
+}
+
+footer {
+    clear: left;
+    font-size: 1.0em;
+    color: gray;
+}
+
+.obj {
+    color: gray;
+}
+
+sources a {
+    color: gray;
+    font-size: 0.5em;
+}
+
