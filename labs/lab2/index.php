@@ -6,7 +6,7 @@ include 'inc/functions.php';
 
 
 <!DOCTYPE html>
-<html>
+<html lang='en'>
     <head>
         <title> 777 Slot Machine </title>
         
