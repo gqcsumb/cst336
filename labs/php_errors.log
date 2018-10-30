@@ -1,0 +1,30 @@
+[30-Oct-2018 07:54:21 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:54:21 UTC] PHP Stack trace:
+[30-Oct-2018 07:54:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:54:22 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:54:22 UTC] PHP Stack trace:
+[30-Oct-2018 07:54:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:56:17 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:56:17 UTC] PHP Stack trace:
+[30-Oct-2018 07:56:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:56:18 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:56:18 UTC] PHP Stack trace:
+[30-Oct-2018 07:56:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:57:52 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:57:52 UTC] PHP Stack trace:
+[30-Oct-2018 07:57:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:57:52 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:57:52 UTC] PHP Stack trace:
+[30-Oct-2018 07:57:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:57:53 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:57:53 UTC] PHP Stack trace:
+[30-Oct-2018 07:57:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:57:54 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:57:54 UTC] PHP Stack trace:
+[30-Oct-2018 07:57:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:57:55 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:57:55 UTC] PHP Stack trace:
+[30-Oct-2018 07:57:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[30-Oct-2018 07:57:59 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
+[30-Oct-2018 07:57:59 UTC] PHP Stack trace:
+[30-Oct-2018 07:57:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
