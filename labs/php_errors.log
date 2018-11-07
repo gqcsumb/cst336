@@ -28,3 +28,6 @@
 [30-Oct-2018 07:57:59 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 11
 [30-Oct-2018 07:57:59 UTC] PHP Stack trace:
 [30-Oct-2018 07:57:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[03-Nov-2018 23:58:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/labs/lab3/index.php on line 9
+[03-Nov-2018 23:58:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/labs/lab3/index.php on line 9
+[04-Nov-2018 01:50:39 UTC] PHP Parse error:  syntax error, unexpected '$imageURLs' (T_VARIABLE) in /home/ubuntu/workspace/cst336/labs/lab3/index.php on line 8
