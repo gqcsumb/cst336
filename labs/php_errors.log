@@ -31,3 +31,67 @@
 [03-Nov-2018 23:58:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/labs/lab3/index.php on line 9
 [03-Nov-2018 23:58:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/labs/lab3/index.php on line 9
 [04-Nov-2018 01:50:39 UTC] PHP Parse error:  syntax error, unexpected '$imageURLs' (T_VARIABLE) in /home/ubuntu/workspace/cst336/labs/lab3/index.php on line 8
+[09-Nov-2018 20:02:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 10
+[10-Nov-2018 01:48:43 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 52
+[10-Nov-2018 01:48:43 UTC] PHP Stack trace:
+[10-Nov-2018 01:48:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[10-Nov-2018 01:50:38 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 52
+[10-Nov-2018 01:50:38 UTC] PHP Stack trace:
+[10-Nov-2018 01:50:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[10-Nov-2018 01:52:12 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 52
+[10-Nov-2018 01:52:12 UTC] PHP Stack trace:
+[10-Nov-2018 01:52:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[10-Nov-2018 01:53:34 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 52
+[10-Nov-2018 01:53:34 UTC] PHP Stack trace:
+[10-Nov-2018 01:53:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[10-Nov-2018 19:38:27 UTC] PHP Parse error:  syntax error, unexpected 'Cart' (T_STRING) in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 71
+[10-Nov-2018 19:38:32 UTC] PHP Parse error:  syntax error, unexpected 'Cart' (T_STRING) in /home/ubuntu/workspace/cst336/labs/lab4/index.php on line 71
+[10-Nov-2018 19:39:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/labs/lab4/function.php on line 16
+[10-Nov-2018 19:39:15 UTC] PHP Stack trace:
+[10-Nov-2018 19:39:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[10-Nov-2018 19:39:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/labs/lab4/function.php on line 16
+[10-Nov-2018 19:39:30 UTC] PHP Stack trace:
+[10-Nov-2018 19:39:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/index.php:0
+[10-Nov-2018 19:43:46 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/lab4/scart.php on line 2
+[10-Nov-2018 19:43:46 UTC] PHP Stack trace:
+[10-Nov-2018 19:43:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart.php:0
+[10-Nov-2018 19:43:46 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/lab4/scart.php on line 2
+[10-Nov-2018 19:43:46 UTC] PHP Stack trace:
+[10-Nov-2018 19:43:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart.php:0
+[10-Nov-2018 19:43:46 UTC] PHP Fatal error:  Call to undefined function ifset() in /home/ubuntu/workspace/cst336/labs/lab4/scart.php on line 6
+[10-Nov-2018 19:43:46 UTC] PHP Stack trace:
+[10-Nov-2018 19:43:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart.php:0
+[10-Nov-2018 19:44:12 UTC] PHP Fatal error:  Call to undefined function ifset() in /home/ubuntu/workspace/cst336/labs/lab4/scart.php on line 6
+[10-Nov-2018 19:44:12 UTC] PHP Stack trace:
+[10-Nov-2018 19:44:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart.php:0
+[10-Nov-2018 19:44:33 UTC] PHP Fatal error:  Call to undefined function ifset() in /home/ubuntu/workspace/cst336/labs/lab4/scart.php on line 15
+[10-Nov-2018 19:44:33 UTC] PHP Stack trace:
+[10-Nov-2018 19:44:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart.php:0
+[12-Nov-2018 04:28:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 27
+[12-Nov-2018 04:28:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO)' in /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php(11): PDO->__construct('mysql:host=loca...', NULL, '')
+#1 /home/ubuntu/workspace/cst336/labs/lab5/index.php(5): getDatabaseConnection('heroku_1b5c0f6e...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php on line 11
+[12-Nov-2018 04:39:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'heroku_1b5c0f6e15d46a5'' in /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/cst336/labs/lab5/index.php(5): getDatabaseConnection('heroku_1b5c0f6e...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php on line 11
+[12-Nov-2018 06:18:14 UTC] PHP Warning:  include(../dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 3
+[12-Nov-2018 06:18:14 UTC] PHP Stack trace:
+[12-Nov-2018 06:18:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[12-Nov-2018 06:18:14 UTC] PHP Warning:  include(): Failed opening '../dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 3
+[12-Nov-2018 06:18:14 UTC] PHP Stack trace:
+[12-Nov-2018 06:18:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[12-Nov-2018 06:18:14 UTC] PHP Fatal error:  Call to undefined function getDatabaseConnection() in /home/ubuntu/workspace/cst336/labs/lab5/index.php on line 5
+[12-Nov-2018 06:18:14 UTC] PHP Stack trace:
+[12-Nov-2018 06:18:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab5/index.php:0
+[12-Nov-2018 07:47:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'ottermart'' in /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php:11
+Stack trace:
+#0 /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/ubuntu/workspace/cst336/labs/lab5/index.php(5): getDatabaseConnection('ottermart')
+#2 {main}
+  thrown in /home/ubuntu/workspace/cst336/labs/lab5/dbConnection.php on line 11
