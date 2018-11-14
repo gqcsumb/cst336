@@ -7,7 +7,7 @@
     function displayCategories() {
         global $conn;
         
-        $sql = "SELEC catID, catName from om_category ORDER BY catName";
+        $sql = "SELECT catID, catName from om_category ORDER BY catName";
         
         $stmt = $conn->prepare($sql);
         $stmt -> execute();
@@ -29,18 +29,18 @@
             
             $sql = "SELECT * FROM om_product WHERE 1";
             
-            if (!empty($_GET['product'])) { //checks whether user has typed somethign in the product text box
-                $sql .= "AND productName LIKE :productName";
+            if (!empty($_GET['product'])) { //checks whether user has typed something in the product text box
+                $sql .= " AND productName LIKE :productName";
                 $namedParameters[":productName"] = "%" . $_GET['product'] . "%";
             }
             
             if (!empty($_GET['category'])) { //checks whether user has selected a category
-                $sql .= "AND catId = :categoryId";
+                $sql .= " AND catId = :categoryId";
                 $namedParameters[":categoryId"] = $_GET['category'];
             }
             
             if (!empty($_GET['priceFrom'])) { //checks whether user has typed something in the Price From text box
-                $sql .= "AND price >= :priceFrom";
+                $sql .= " AND price >= :priceFrom";
                 $namedParameters[":priceFrom"] = $_GET['priceFrom'];
             }
             
@@ -57,13 +57,18 @@
                 }
             }
             
+            //if (!empty($_GET['product'])) { //checks whether user has typed something in the product text box
+            //   $sql .= " AND productName LIKE :productName";
+            //    $namedParameters[":productName"] = "%" . $_GET['product'] . "%";
+            //}
+            
             $stmt = $conn->prepare($sql);
             $stmt->execute($namedParameters);
-            $records = $stmt->fetchAll(POD::FETCH_ASSOC);
+            $records = $stmt->fetchAll(PDO::FETCH_ASSOC);
             
             foreach ($records as $record) {
                 
-                echo "<a href=\"purchaseHistory.php?productId="/$record["productId"]. "\"> History </a>";
+                echo "<a href=\"purchaseHistory.php?productId=" . $record["productId"]. "\"> History </a>";
                 
                 echo $record["productName"] . " " . $record["productDescription"] . " $" . $record["price"] . "<br /><br />";
             }
