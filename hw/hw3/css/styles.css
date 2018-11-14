@@ -1,0 +1,59 @@
+
+
+    img {
+        border-radius:10px;
+        width:300px;
+    }
+    
+    body {
+        background-image:url("../img/background.png");
+        color: white;
+        text-align:center;
+        
+    }
+    
+    header {
+        padding-top: 20px;
+        background-color: black;
+        width:600px;
+        position:relative;
+        margin:0 auto;
+        font-size:1.5em;
+    }
+    
+    main {
+        padding-top: 10px;
+        background-color: black;
+        width:600px;
+        position:relative;
+        margin:0 auto;
+    }
+    
+    input{
+        top:75px;
+        left:530px;
+        font-size:1.3em;
+        border:none;
+        outline:none; /*hides button outline when clicking on it*/
+        font-weight:bold;
+        color:black;
+    }
+    
+
+    #buttons {
+        text-align: center;
+    }
+    
+    #output {
+        width:100%;   
+        margin:auto;
+        text-align:center;
+        font-size:2.5em;
+        line-height: .7em;
+        position:absolute;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: blue;
+    }
+    
+
