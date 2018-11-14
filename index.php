@@ -20,7 +20,7 @@ echo "Gabriel Quan's CST336 Home Page";
 <br><br>
 <br><br>
 <a href="hw/hw1/cryptography.html"> Homework 1 </a>
-</body>
+<br><br>
 <a href="hw/hw3/index.php"> Homework 3 </a>
 </body>
 </html>
