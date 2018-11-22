@@ -7,7 +7,7 @@
     function displayCategories() {
         global $conn;
         
-        $sql = "SELECT catID, catName from om_category ORDER BY catName";
+        $sql = "SELECT quote, catName from om_category ORDER BY catName";
         
         $stmt = $conn->prepare($sql);
         $stmt -> execute();

@@ -1,0 +1,1888 @@
+[17-Nov-2018 23:12:34 UTC] PHP Parse error:  syntax error, unexpected 'checked' (T_STRING) in /home/ubuntu/workspace/cst336/midterm/midterm_program1.php on line 31
+[18-Nov-2018 01:16:45 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/midterm/midterm_program1.php on line 3
+[18-Nov-2018 01:16:45 UTC] PHP Stack trace:
+[18-Nov-2018 01:16:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:16:45 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/midterm/midterm_program1.php on line 3
+[18-Nov-2018 01:16:45 UTC] PHP Stack trace:
+[18-Nov-2018 01:16:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:18:22 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/midterm/midterm_program1.php on line 3
+[18-Nov-2018 01:18:22 UTC] PHP Stack trace:
+[18-Nov-2018 01:18:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:18:22 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/midterm/midterm_program1.php on line 3
+[18-Nov-2018 01:18:22 UTC] PHP Stack trace:
+[18-Nov-2018 01:18:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:18:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 37
+[18-Nov-2018 01:18:22 UTC] PHP Stack trace:
+[18-Nov-2018 01:18:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:18:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 37
+[18-Nov-2018 01:18:31 UTC] PHP Stack trace:
+[18-Nov-2018 01:18:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:19:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 35
+[18-Nov-2018 01:19:01 UTC] PHP Stack trace:
+[18-Nov-2018 01:19:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:19:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 35
+[18-Nov-2018 01:19:03 UTC] PHP Stack trace:
+[18-Nov-2018 01:19:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:19:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 35
+[18-Nov-2018 01:19:04 UTC] PHP Stack trace:
+[18-Nov-2018 01:19:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:19:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 35
+[18-Nov-2018 01:19:04 UTC] PHP Stack trace:
+[18-Nov-2018 01:19:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:19:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 33
+[18-Nov-2018 01:19:18 UTC] PHP Stack trace:
+[18-Nov-2018 01:19:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:22:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 6
+[18-Nov-2018 01:22:34 UTC] PHP Stack trace:
+[18-Nov-2018 01:22:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:24:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 01:24:41 UTC] PHP Stack trace:
+[18-Nov-2018 01:24:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 01:24:41 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 01:33:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 7
+[18-Nov-2018 01:33:50 UTC] PHP Stack trace:
+[18-Nov-2018 01:33:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 01:33:50 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:79
+[18-Nov-2018 01:55:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 37
+[18-Nov-2018 01:55:32 UTC] PHP Stack trace:
+[18-Nov-2018 01:55:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:09:52 UTC] PHP Fatal error:  Call to undefined function getTeam() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 13
+[18-Nov-2018 02:09:52 UTC] PHP Stack trace:
+[18-Nov-2018 02:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:09:52 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:79
+[18-Nov-2018 02:10:14 UTC] PHP Fatal error:  Call to undefined function getTeam() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 13
+[18-Nov-2018 02:10:14 UTC] PHP Stack trace:
+[18-Nov-2018 02:10:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:10:14 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:79
+[18-Nov-2018 02:11:26 UTC] PHP Fatal error:  Call to undefined function getTeam() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 13
+[18-Nov-2018 02:11:26 UTC] PHP Stack trace:
+[18-Nov-2018 02:11:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:11:26 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:79
+[18-Nov-2018 02:15:25 UTC] PHP Fatal error:  Maximum function nesting level of '256' reached, aborting! in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 02:15:25 UTC] PHP Stack trace:
+[18-Nov-2018 02:15:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 02:15:25 UTC] PHP   2. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 02:15:25 UTC] PHP   3. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP   4. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP   5. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP   6. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP   7. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP   8. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP   9. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  10. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  11. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  12. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  13. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  14. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  15. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  16. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  17. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  18. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  19. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  20. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  21. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  22. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  23. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  24. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  25. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  26. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  27. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  28. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  29. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  30. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  31. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  32. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  33. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  34. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  35. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  36. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  37. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  38. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  39. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  40. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  41. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  42. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  43. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  44. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  45. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  46. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  47. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  48. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  49. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  50. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  51. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  52. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  53. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  54. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  55. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  56. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  57. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  58. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  59. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  60. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  61. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  62. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  63. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  64. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  65. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  66. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  67. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  68. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  69. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  70. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  71. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  72. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  73. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  74. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  75. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  76. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  77. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  78. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  79. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  80. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  81. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  82. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  83. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  84. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  85. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  86. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  87. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  88. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  89. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  90. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  91. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  92. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  93. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  94. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  95. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  96. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  97. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  98. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP  99. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 100. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 101. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 102. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 103. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 104. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 105. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 106. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 107. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 108. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 109. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 110. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 111. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 112. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 113. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 114. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 115. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 116. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 117. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 118. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 119. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 120. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 121. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 122. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 123. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 124. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 125. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 126. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 127. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 128. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 129. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 130. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 131. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 132. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 133. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 134. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 135. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 136. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 137. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 138. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 139. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 140. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 141. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 142. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 143. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 144. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 145. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 146. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 147. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 148. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 149. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 150. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 151. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 152. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 153. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 154. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 155. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 156. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 157. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 158. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 159. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 160. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 161. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 162. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 163. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 164. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 165. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 166. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 167. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 168. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 169. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 170. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 171. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 172. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 173. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 174. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 175. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 176. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 177. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 178. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 179. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 180. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 181. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 182. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 183. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 184. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 185. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 186. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 187. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 188. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 189. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 190. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 191. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 192. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 193. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 194. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 195. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 196. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 197. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 198. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 199. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 200. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 201. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 202. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 203. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 204. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 205. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 206. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 207. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 208. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 209. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 210. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 211. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 212. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 213. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 214. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 215. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 216. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 217. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 218. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 219. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 220. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 221. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 222. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 223. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 224. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 225. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 226. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 227. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 228. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 229. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 230. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 231. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 232. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 233. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 234. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 235. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 236. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 237. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 238. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 239. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 240. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 241. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 242. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 243. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 244. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 245. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 246. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 247. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 248. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 249. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 250. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 251. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 252. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 253. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 254. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 255. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:25 UTC] PHP 256. getTeam() /home/ubuntu/workspace/cst336/midterm/test.php:9
+[18-Nov-2018 02:15:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/cst336/midterm/test.php on line 9
+[18-Nov-2018 02:19:41 UTC] PHP Fatal error:  Call to undefined function getTeam() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 13
+[18-Nov-2018 02:19:41 UTC] PHP Stack trace:
+[18-Nov-2018 02:19:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:19:41 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:79
+[18-Nov-2018 02:19:47 UTC] PHP Fatal error:  Call to undefined function getTeam() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 13
+[18-Nov-2018 02:19:47 UTC] PHP Stack trace:
+[18-Nov-2018 02:19:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:19:47 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:79
+[18-Nov-2018 02:19:51 UTC] PHP Fatal error:  Call to undefined function getTeam() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 13
+[18-Nov-2018 02:19:51 UTC] PHP Stack trace:
+[18-Nov-2018 02:19:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:19:51 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:79
+[18-Nov-2018 02:26:15 UTC] PHP Fatal error:  Call to undefined function getTeam() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 13
+[18-Nov-2018 02:26:15 UTC] PHP Stack trace:
+[18-Nov-2018 02:26:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:26:15 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:79
+[18-Nov-2018 02:26:29 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:26:29 UTC] PHP Stack trace:
+[18-Nov-2018 02:26:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:26:29 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:26:29 UTC] PHP   3. shuffle() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:41:46 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/midterm/test.php on line 3
+[18-Nov-2018 02:41:46 UTC] PHP Stack trace:
+[18-Nov-2018 02:41:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 02:41:46 UTC] PHP   2. array_rand() /home/ubuntu/workspace/cst336/midterm/test.php:3
+[18-Nov-2018 02:45:20 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:45:20 UTC] PHP Stack trace:
+[18-Nov-2018 02:45:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:45:20 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:45:20 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:45:56 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:45:56 UTC] PHP Stack trace:
+[18-Nov-2018 02:45:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:45:56 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:45:56 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:45:59 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:45:59 UTC] PHP Stack trace:
+[18-Nov-2018 02:45:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:45:59 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:45:59 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:46:04 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:46:04 UTC] PHP Stack trace:
+[18-Nov-2018 02:46:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:46:04 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:46:04 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:46:05 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:46:05 UTC] PHP Stack trace:
+[18-Nov-2018 02:46:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:46:05 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:46:05 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:46:05 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:46:05 UTC] PHP Stack trace:
+[18-Nov-2018 02:46:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:46:05 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:46:05 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:46:06 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:46:06 UTC] PHP Stack trace:
+[18-Nov-2018 02:46:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:46:06 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:46:06 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:46:07 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:46:07 UTC] PHP Stack trace:
+[18-Nov-2018 02:46:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:46:07 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:46:07 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:46:07 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:46:07 UTC] PHP Stack trace:
+[18-Nov-2018 02:46:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:46:07 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:46:07 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:47:22 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/midterm/functions.php on line 19
+[18-Nov-2018 02:47:22 UTC] PHP Stack trace:
+[18-Nov-2018 02:47:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:47:22 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:47:22 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:19
+[18-Nov-2018 02:47:43 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/midterm/functions.php on line 19
+[18-Nov-2018 02:47:43 UTC] PHP Stack trace:
+[18-Nov-2018 02:47:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:47:43 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:47:43 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:19
+[18-Nov-2018 02:48:30 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/midterm/functions.php on line 19
+[18-Nov-2018 02:48:30 UTC] PHP Stack trace:
+[18-Nov-2018 02:48:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:48:30 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:48:30 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:19
+[18-Nov-2018 02:53:24 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:53:24 UTC] PHP Stack trace:
+[18-Nov-2018 02:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:53:24 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:53:24 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:53:37 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:53:37 UTC] PHP Stack trace:
+[18-Nov-2018 02:53:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:53:37 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:53:37 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:53:51 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:53:51 UTC] PHP Stack trace:
+[18-Nov-2018 02:53:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:53:51 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:53:51 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:53:58 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 02:53:58 UTC] PHP Stack trace:
+[18-Nov-2018 02:53:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:53:58 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:53:58 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:17
+[18-Nov-2018 02:54:54 UTC] PHP Warning:  array_rand(): Second argument has to be between 1 and the number of elements in the array in /home/ubuntu/workspace/cst336/midterm/functions.php on line 19
+[18-Nov-2018 02:54:54 UTC] PHP Stack trace:
+[18-Nov-2018 02:54:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 02:54:54 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 02:54:54 UTC] PHP   3. array_rand() /home/ubuntu/workspace/cst336/midterm/functions.php:19
+[18-Nov-2018 03:07:50 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 21
+[18-Nov-2018 03:07:50 UTC] PHP Stack trace:
+[18-Nov-2018 03:07:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:07:53 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 21
+[18-Nov-2018 03:07:53 UTC] PHP Stack trace:
+[18-Nov-2018 03:07:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:07:56 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 21
+[18-Nov-2018 03:07:56 UTC] PHP Stack trace:
+[18-Nov-2018 03:07:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:08:22 UTC] PHP Parse error:  syntax error, unexpected '$femalechar' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 03:08:22 UTC] PHP Stack trace:
+[18-Nov-2018 03:08:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:09:49 UTC] PHP Parse error:  syntax error, unexpected '$femalechar' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 03:09:49 UTC] PHP Stack trace:
+[18-Nov-2018 03:09:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:09:51 UTC] PHP Parse error:  syntax error, unexpected '$femalechar' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 03:09:51 UTC] PHP Stack trace:
+[18-Nov-2018 03:09:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:09:52 UTC] PHP Parse error:  syntax error, unexpected '$femalechar' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 03:09:52 UTC] PHP Stack trace:
+[18-Nov-2018 03:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:09:53 UTC] PHP Parse error:  syntax error, unexpected '$femalechar' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 03:09:53 UTC] PHP Stack trace:
+[18-Nov-2018 03:09:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:11:08 UTC] PHP Parse error:  syntax error, unexpected ''gamora.png'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 8
+[18-Nov-2018 03:11:08 UTC] PHP Stack trace:
+[18-Nov-2018 03:11:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:11:57 UTC] PHP Parse error:  syntax error, unexpected ''gamora.png'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 03:11:57 UTC] PHP Stack trace:
+[18-Nov-2018 03:11:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:12:34 UTC] PHP Parse error:  syntax error, unexpected 'img' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 28
+[18-Nov-2018 03:12:34 UTC] PHP Stack trace:
+[18-Nov-2018 03:12:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:12:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 29
+[18-Nov-2018 03:12:59 UTC] PHP Stack trace:
+[18-Nov-2018 03:12:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:13:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 29
+[18-Nov-2018 03:13:15 UTC] PHP Stack trace:
+[18-Nov-2018 03:13:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:33:38 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 19
+[18-Nov-2018 03:33:38 UTC] PHP Stack trace:
+[18-Nov-2018 03:33:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:33:38 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 03:33:38 UTC] PHP   3. shuffle() /home/ubuntu/workspace/cst336/midterm/functions.php:19
+[18-Nov-2018 03:33:39 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 19
+[18-Nov-2018 03:33:39 UTC] PHP Stack trace:
+[18-Nov-2018 03:33:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:33:39 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 03:33:39 UTC] PHP   3. shuffle() /home/ubuntu/workspace/cst336/midterm/functions.php:19
+[18-Nov-2018 03:33:40 UTC] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/ubuntu/workspace/cst336/midterm/functions.php on line 19
+[18-Nov-2018 03:33:40 UTC] PHP Stack trace:
+[18-Nov-2018 03:33:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:33:40 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 03:33:40 UTC] PHP   3. shuffle() /home/ubuntu/workspace/cst336/midterm/functions.php:19
+[18-Nov-2018 03:38:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 69
+[18-Nov-2018 03:38:18 UTC] PHP Stack trace:
+[18-Nov-2018 03:38:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:40:55 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 03:40:55 UTC] PHP Stack trace:
+[18-Nov-2018 03:40:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:49:07 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 8
+[18-Nov-2018 03:49:07 UTC] PHP Stack trace:
+[18-Nov-2018 03:49:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:49:14 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 8
+[18-Nov-2018 03:49:14 UTC] PHP Stack trace:
+[18-Nov-2018 03:49:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:49:33 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 8
+[18-Nov-2018 03:49:33 UTC] PHP Stack trace:
+[18-Nov-2018 03:49:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 03:49:35 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 8
+[18-Nov-2018 03:49:35 UTC] PHP Stack trace:
+[18-Nov-2018 03:49:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:33:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 44
+[18-Nov-2018 04:33:20 UTC] PHP Stack trace:
+[18-Nov-2018 04:33:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:34:11 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 43
+[18-Nov-2018 04:34:11 UTC] PHP Stack trace:
+[18-Nov-2018 04:34:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:39:51 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 48
+[18-Nov-2018 04:39:51 UTC] PHP Stack trace:
+[18-Nov-2018 04:39:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:43:12 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:43:12 UTC] PHP Stack trace:
+[18-Nov-2018 04:43:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:43:29 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:43:29 UTC] PHP Stack trace:
+[18-Nov-2018 04:43:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:43:34 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:43:34 UTC] PHP Stack trace:
+[18-Nov-2018 04:43:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:43:36 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:43:36 UTC] PHP Stack trace:
+[18-Nov-2018 04:43:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:43:37 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:43:37 UTC] PHP Stack trace:
+[18-Nov-2018 04:43:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:44:31 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:44:31 UTC] PHP Stack trace:
+[18-Nov-2018 04:44:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:44:32 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:44:32 UTC] PHP Stack trace:
+[18-Nov-2018 04:44:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:46:23 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:46:23 UTC] PHP Stack trace:
+[18-Nov-2018 04:46:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:46:25 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:46:25 UTC] PHP Stack trace:
+[18-Nov-2018 04:46:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:46:43 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:46:43 UTC] PHP Stack trace:
+[18-Nov-2018 04:46:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:46:45 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:46:45 UTC] PHP Stack trace:
+[18-Nov-2018 04:46:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:46:59 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:46:59 UTC] PHP Stack trace:
+[18-Nov-2018 04:46:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:47:30 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:47:30 UTC] PHP Stack trace:
+[18-Nov-2018 04:47:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:47:32 UTC] PHP Parse error:  syntax error, unexpected 'for' (T_FOR) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:47:32 UTC] PHP Stack trace:
+[18-Nov-2018 04:47:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:49:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 32
+[18-Nov-2018 04:49:29 UTC] PHP Stack trace:
+[18-Nov-2018 04:49:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:53:48 UTC] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:53:48 UTC] PHP Stack trace:
+[18-Nov-2018 04:53:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:54:29 UTC] PHP Parse error:  syntax error, unexpected 'fruis' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:54:29 UTC] PHP Stack trace:
+[18-Nov-2018 04:54:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:55:00 UTC] PHP Parse error:  syntax error, unexpected '$femalechar' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:55:00 UTC] PHP Stack trace:
+[18-Nov-2018 04:55:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:55:16 UTC] PHP Parse error:  syntax error, unexpected '$femalechar' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:55:16 UTC] PHP Stack trace:
+[18-Nov-2018 04:55:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:55:32 UTC] PHP Parse error:  syntax error, unexpected '"fruits"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 23
+[18-Nov-2018 04:55:32 UTC] PHP Stack trace:
+[18-Nov-2018 04:55:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:55:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 27
+[18-Nov-2018 04:55:55 UTC] PHP Stack trace:
+[18-Nov-2018 04:55:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 04:58:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 22
+[18-Nov-2018 04:58:02 UTC] PHP Stack trace:
+[18-Nov-2018 04:58:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:09:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 26
+[18-Nov-2018 05:09:38 UTC] PHP Stack trace:
+[18-Nov-2018 05:09:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:11:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 26
+[18-Nov-2018 05:11:04 UTC] PHP Stack trace:
+[18-Nov-2018 05:11:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:11:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/functions.php on line 92
+[18-Nov-2018 05:11:44 UTC] PHP Stack trace:
+[18-Nov-2018 05:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:13:45 UTC] PHP Fatal error:  Maximum function nesting level of '256' reached, aborting! in /home/ubuntu/workspace/cst336/midterm/functions.php on line 16
+[18-Nov-2018 05:13:45 UTC] PHP Stack trace:
+[18-Nov-2018 05:13:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:13:45 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:84
+[18-Nov-2018 05:13:45 UTC] PHP   3. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP   4. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP   5. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP   6. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP   7. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP   8. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP   9. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  10. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  11. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  12. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  13. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  14. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  15. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  16. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  17. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  18. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  19. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  20. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  21. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  22. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  23. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  24. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  25. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  26. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  27. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  28. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  29. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  30. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  31. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  32. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  33. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  34. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  35. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  36. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  37. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  38. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  39. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  40. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  41. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  42. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  43. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  44. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  45. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  46. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  47. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  48. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  49. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  50. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  51. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  52. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  53. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  54. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  55. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  56. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  57. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  58. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  59. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  60. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  61. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  62. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  63. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  64. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  65. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  66. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  67. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  68. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  69. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  70. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  71. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  72. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  73. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  74. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  75. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  76. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  77. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  78. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  79. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  80. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  81. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  82. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  83. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  84. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  85. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  86. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  87. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  88. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  89. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  90. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  91. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  92. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  93. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  94. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  95. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  96. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  97. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  98. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP  99. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 100. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 101. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 102. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 103. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 104. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 105. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 106. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 107. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 108. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 109. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 110. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 111. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 112. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 113. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 114. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 115. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 116. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 117. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 118. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 119. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 120. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 121. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 122. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 123. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 124. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 125. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 126. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 127. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 128. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 129. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 130. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 131. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 132. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 133. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 134. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 135. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 136. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 137. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 138. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 139. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 140. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 141. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 142. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 143. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 144. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 145. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 146. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 147. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 148. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 149. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 150. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 151. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 152. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 153. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 154. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 155. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 156. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 157. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 158. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 159. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 160. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 161. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 162. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 163. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 164. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 165. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 166. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 167. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 168. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 169. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 170. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 171. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 172. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 173. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 174. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 175. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 176. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 177. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 178. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 179. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 180. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 181. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 182. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 183. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 184. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 185. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 186. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 187. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 188. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 189. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 190. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 191. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 192. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 193. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 194. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 195. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 196. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 197. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 198. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 199. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 200. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 201. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 202. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 203. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 204. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 205. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 206. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 207. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 208. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 209. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 210. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 211. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 212. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 213. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 214. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 215. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 216. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 217. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 218. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 219. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 220. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 221. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 222. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 223. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 224. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 225. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 226. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 227. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 228. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 229. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 230. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 231. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 232. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 233. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 234. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 235. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 236. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 237. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 238. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 239. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 240. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 241. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 242. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 243. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 244. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 245. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 246. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 247. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 248. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 249. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 250. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 251. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 252. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 253. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 254. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 255. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:13:45 UTC] PHP 256. teamGenerator() /home/ubuntu/workspace/cst336/midterm/functions.php:30
+[18-Nov-2018 05:18:08 UTC] PHP Parse error:  syntax error, unexpected '$femalechar' (T_VARIABLE) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 17
+[18-Nov-2018 05:18:08 UTC] PHP Stack trace:
+[18-Nov-2018 05:18:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:31:56 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 05:31:56 UTC] PHP Stack trace:
+[18-Nov-2018 05:31:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 05:31:56 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 5
+[18-Nov-2018 05:31:56 UTC] PHP Stack trace:
+[18-Nov-2018 05:31:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 05:34:20 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 05:34:21 UTC] PHP Stack trace:
+[18-Nov-2018 05:34:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 05:34:21 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 5
+[18-Nov-2018 05:34:21 UTC] PHP Stack trace:
+[18-Nov-2018 05:34:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 05:34:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 05:34:41 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 05:34:41 UTC] PHP Stack trace:
+[18-Nov-2018 05:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 05:34:41 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 5
+[18-Nov-2018 05:34:41 UTC] PHP Stack trace:
+[18-Nov-2018 05:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 05:34:41 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 05:34:41 UTC] PHP Stack trace:
+[18-Nov-2018 05:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 05:34:41 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 5
+[18-Nov-2018 05:34:41 UTC] PHP Stack trace:
+[18-Nov-2018 05:34:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 05:41:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/cst336/midterm/test.php on line 30
+[18-Nov-2018 05:42:17 UTC] PHP Parse error:  syntax error, unexpected 'img' (T_STRING), expecting ')' in /home/ubuntu/workspace/cst336/midterm/test.php on line 23
+[18-Nov-2018 05:43:24 UTC] PHP Parse error:  syntax error, unexpected ''),' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ubuntu/workspace/cst336/midterm/test.php on line 24
+[18-Nov-2018 05:50:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 27
+[18-Nov-2018 05:50:20 UTC] PHP Stack trace:
+[18-Nov-2018 05:50:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:50:20 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 05:50:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/functions.php on line 27
+[18-Nov-2018 05:50:21 UTC] PHP Stack trace:
+[18-Nov-2018 05:50:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:50:21 UTC] PHP   2. teamGenerator() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:83
+[18-Nov-2018 05:51:38 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ubuntu/workspace/cst336/midterm/functions.php on line 27
+[18-Nov-2018 05:51:38 UTC] PHP Stack trace:
+[18-Nov-2018 05:51:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:52:17 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 27
+[18-Nov-2018 05:52:17 UTC] PHP Stack trace:
+[18-Nov-2018 05:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:54:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 33
+[18-Nov-2018 05:54:30 UTC] PHP Stack trace:
+[18-Nov-2018 05:54:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 05:54:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/cst336/midterm/functions.php on line 33
+[18-Nov-2018 05:54:50 UTC] PHP Stack trace:
+[18-Nov-2018 05:54:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program1.php:0
+[18-Nov-2018 06:02:02 UTC] PHP Warning:  include(dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 33
+[18-Nov-2018 06:02:02 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:02 UTC] PHP Warning:  include(): Failed opening 'dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 33
+[18-Nov-2018 06:02:02 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 47
+[18-Nov-2018 06:02:02 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:02 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:130
+[18-Nov-2018 06:02:39 UTC] PHP Warning:  include(dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 28
+[18-Nov-2018 06:02:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:39 UTC] PHP Warning:  include(): Failed opening 'dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 28
+[18-Nov-2018 06:02:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:02:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:39 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:125
+[18-Nov-2018 06:02:40 UTC] PHP Warning:  include(dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 28
+[18-Nov-2018 06:02:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:40 UTC] PHP Warning:  include(): Failed opening 'dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 28
+[18-Nov-2018 06:02:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:02:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:40 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:125
+[18-Nov-2018 06:02:47 UTC] PHP Warning:  include(dbConnection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 28
+[18-Nov-2018 06:02:47 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:47 UTC] PHP Warning:  include(): Failed opening 'dbConnection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 28
+[18-Nov-2018 06:02:47 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:02:47 UTC] PHP Stack trace:
+[18-Nov-2018 06:02:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:02:47 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:125
+[18-Nov-2018 06:03:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 41
+[18-Nov-2018 06:03:04 UTC] PHP Stack trace:
+[18-Nov-2018 06:03:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:03:04 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:124
+[18-Nov-2018 06:05:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:05:01 UTC] PHP Stack trace:
+[18-Nov-2018 06:05:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:05:01 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:127
+[18-Nov-2018 06:05:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:05:11 UTC] PHP Stack trace:
+[18-Nov-2018 06:05:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:05:11 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:127
+[18-Nov-2018 06:08:21 UTC] PHP Fatal error:  Call to undefined function displayCategories() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 128
+[18-Nov-2018 06:08:21 UTC] PHP Stack trace:
+[18-Nov-2018 06:08:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:08:35 UTC] PHP Fatal error:  Call to undefined function displayCategories() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 128
+[18-Nov-2018 06:08:35 UTC] PHP Stack trace:
+[18-Nov-2018 06:08:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:08:38 UTC] PHP Fatal error:  Call to undefined function displayCategories() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 128
+[18-Nov-2018 06:08:38 UTC] PHP Stack trace:
+[18-Nov-2018 06:08:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:08:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:08:46 UTC] PHP Stack trace:
+[18-Nov-2018 06:08:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:08:46 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:128
+[18-Nov-2018 06:08:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:08:47 UTC] PHP Stack trace:
+[18-Nov-2018 06:08:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:08:47 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:128
+[18-Nov-2018 06:09:00 UTC] PHP Fatal error:  Call to undefined function displayCategories() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 128
+[18-Nov-2018 06:09:00 UTC] PHP Stack trace:
+[18-Nov-2018 06:09:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:09:02 UTC] PHP Fatal error:  Call to undefined function displayCategories() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 128
+[18-Nov-2018 06:09:02 UTC] PHP Stack trace:
+[18-Nov-2018 06:09:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:09:04 UTC] PHP Fatal error:  Call to undefined function displayCategories() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 128
+[18-Nov-2018 06:09:04 UTC] PHP Stack trace:
+[18-Nov-2018 06:09:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:09:25 UTC] PHP Fatal error:  Call to undefined function displayCategories() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 128
+[18-Nov-2018 06:09:25 UTC] PHP Stack trace:
+[18-Nov-2018 06:09:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:09:27 UTC] PHP Fatal error:  Call to undefined function displayCategories() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 128
+[18-Nov-2018 06:09:27 UTC] PHP Stack trace:
+[18-Nov-2018 06:09:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:09:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:09:30 UTC] PHP Stack trace:
+[18-Nov-2018 06:09:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:09:30 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:128
+[18-Nov-2018 06:09:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 42
+[18-Nov-2018 06:09:33 UTC] PHP Stack trace:
+[18-Nov-2018 06:09:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 06:09:33 UTC] PHP   2. displayCategories() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:128
+[18-Nov-2018 06:12:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:12:08 UTC] PHP Stack trace:
+[18-Nov-2018 06:12:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:12:08 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:12:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:12:09 UTC] PHP Stack trace:
+[18-Nov-2018 06:12:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:12:09 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:21:38 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/cst336/midterm/test.php on line 27
+[18-Nov-2018 06:21:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/cst336/midterm/test.php on line 27
+[18-Nov-2018 06:22:29 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:22:29 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:29 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:22:29 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:22:29 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:29 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:22:29 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:22:29 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:29 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:22:29 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:22:29 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:29 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:22:29 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:22:29 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:29 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:22:29 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:22:29 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:29 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:22:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 24
+[18-Nov-2018 06:22:29 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:29 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:24
+[18-Nov-2018 06:22:31 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:22:31 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:31 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:22:31 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:22:31 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:31 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:22:31 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:22:31 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:31 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:22:31 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:22:31 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:31 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:22:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:22:31 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:31 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:22:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:22:31 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:31 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:22:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 24
+[18-Nov-2018 06:22:31 UTC] PHP Stack trace:
+[18-Nov-2018 06:22:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:22:31 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:24
+[18-Nov-2018 06:24:39 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:24:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:39 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:24:39 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:24:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:39 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:24:39 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:24:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:39 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:24:39 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:24:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:39 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:24:39 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:24:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:39 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:24:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:24:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:39 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:24:39 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 24
+[18-Nov-2018 06:24:39 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:39 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:24
+[18-Nov-2018 06:24:40 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:24:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:40 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:24:40 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:24:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:40 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:24:40 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:24:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:40 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:24:40 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:24:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:40 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:24:40 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:24:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:40 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:24:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:24:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:40 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:24:40 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 24
+[18-Nov-2018 06:24:40 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:40 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:24
+[18-Nov-2018 06:24:43 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:24:43 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:43 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:24:43 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:24:43 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:43 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:24:43 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:24:43 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:24:43 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:24:43 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:43 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:24:43 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:24:43 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:43 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:24:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:24:43 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:43 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:24:43 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 24
+[18-Nov-2018 06:24:43 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:43 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:24
+[18-Nov-2018 06:24:45 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:24:45 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:45 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:24:45 UTC] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/ubuntu/workspace/cst336/midterm/test.php on line 2
+[18-Nov-2018 06:24:45 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:45 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/cst336/midterm/test.php:2
+[18-Nov-2018 06:24:45 UTC] PHP Warning:  mysql_select_db(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:24:45 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:45 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:24:45 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 4
+[18-Nov-2018 06:24:45 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:45 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/cst336/midterm/test.php:4
+[18-Nov-2018 06:24:45 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:24:45 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:45 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:24:45 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 8
+[18-Nov-2018 06:24:45 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:45 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:8
+[18-Nov-2018 06:24:45 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 24
+[18-Nov-2018 06:24:45 UTC] PHP Stack trace:
+[18-Nov-2018 06:24:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:24:45 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:24
+[18-Nov-2018 06:25:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:25:17 UTC] PHP Stack trace:
+[18-Nov-2018 06:25:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:25:17 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:25:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:25:17 UTC] PHP Stack trace:
+[18-Nov-2018 06:25:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:25:17 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:25:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 45
+[18-Nov-2018 06:25:17 UTC] PHP Stack trace:
+[18-Nov-2018 06:25:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:25:17 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:45
+[18-Nov-2018 06:25:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:25:18 UTC] PHP Stack trace:
+[18-Nov-2018 06:25:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:25:18 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:25:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:25:18 UTC] PHP Stack trace:
+[18-Nov-2018 06:25:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:25:18 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:25:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 45
+[18-Nov-2018 06:25:18 UTC] PHP Stack trace:
+[18-Nov-2018 06:25:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:25:18 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:45
+[18-Nov-2018 06:25:52 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:25:52 UTC] PHP Stack trace:
+[18-Nov-2018 06:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:26:10 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:26:10 UTC] PHP Stack trace:
+[18-Nov-2018 06:26:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:26:11 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:26:11 UTC] PHP Stack trace:
+[18-Nov-2018 06:26:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:26:52 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:26:52 UTC] PHP Stack trace:
+[18-Nov-2018 06:26:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:26:52 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:26:52 UTC] PHP Stack trace:
+[18-Nov-2018 06:26:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:26:53 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:26:53 UTC] PHP Stack trace:
+[18-Nov-2018 06:26:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:26:54 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:26:54 UTC] PHP Stack trace:
+[18-Nov-2018 06:26:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:26 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:26 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:26 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:26 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:26 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:26 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 45
+[18-Nov-2018 06:27:26 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:26 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:45
+[18-Nov-2018 06:27:27 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:27 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:27 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:27 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:27 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:27 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:27 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 45
+[18-Nov-2018 06:27:27 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:27 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:45
+[18-Nov-2018 06:27:54 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:54 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:54 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:54 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:54 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 45
+[18-Nov-2018 06:27:54 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:54 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:45
+[18-Nov-2018 06:27:54 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:54 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:54 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:54 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:54 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:54 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 45
+[18-Nov-2018 06:27:54 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:54 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:45
+[18-Nov-2018 06:27:55 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:55 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:55 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:55 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:55 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:55 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 45
+[18-Nov-2018 06:27:55 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:55 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:45
+[18-Nov-2018 06:27:55 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:55 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:55 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:55 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:27:55 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:55 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:27:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 45
+[18-Nov-2018 06:27:55 UTC] PHP Stack trace:
+[18-Nov-2018 06:27:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:27:55 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:45
+[18-Nov-2018 06:33:00 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 60
+[18-Nov-2018 06:33:00 UTC] PHP Stack trace:
+[18-Nov-2018 06:33:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:33:00 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:60
+[18-Nov-2018 06:36:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:36:01 UTC] PHP Stack trace:
+[18-Nov-2018 06:36:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:36:01 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:36:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:36:35 UTC] PHP Stack trace:
+[18-Nov-2018 06:36:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:36:35 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:37:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:37:26 UTC] PHP Stack trace:
+[18-Nov-2018 06:37:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:37:26 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:37:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:37:27 UTC] PHP Stack trace:
+[18-Nov-2018 06:37:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:37:27 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:37:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:37:28 UTC] PHP Stack trace:
+[18-Nov-2018 06:37:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:37:28 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:37:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:37:30 UTC] PHP Stack trace:
+[18-Nov-2018 06:37:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:37:30 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:38:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:38:27 UTC] PHP Stack trace:
+[18-Nov-2018 06:38:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:38:27 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:38:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:38:29 UTC] PHP Stack trace:
+[18-Nov-2018 06:38:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:38:29 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:38:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:38:30 UTC] PHP Stack trace:
+[18-Nov-2018 06:38:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:38:30 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:39:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 86
+[18-Nov-2018 06:39:41 UTC] PHP Stack trace:
+[18-Nov-2018 06:39:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:39:41 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:86
+[18-Nov-2018 06:46:19 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ubuntu/workspace/cst336/midterm/test.php on line 32
+[18-Nov-2018 06:47:06 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 36
+[18-Nov-2018 06:47:06 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:06 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:36
+[18-Nov-2018 06:47:06 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 36
+[18-Nov-2018 06:47:06 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:06 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:36
+[18-Nov-2018 06:47:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 52
+[18-Nov-2018 06:47:06 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:06 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:52
+[18-Nov-2018 06:47:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 36
+[18-Nov-2018 06:47:17 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:17 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:36
+[18-Nov-2018 06:47:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 36
+[18-Nov-2018 06:47:17 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:17 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:36
+[18-Nov-2018 06:47:17 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 52
+[18-Nov-2018 06:47:17 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:17 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:52
+[18-Nov-2018 06:47:38 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 36
+[18-Nov-2018 06:47:38 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:38 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:36
+[18-Nov-2018 06:47:38 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 36
+[18-Nov-2018 06:47:38 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:38 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:36
+[18-Nov-2018 06:47:38 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 52
+[18-Nov-2018 06:47:38 UTC] PHP Stack trace:
+[18-Nov-2018 06:47:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:47:38 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:52
+[18-Nov-2018 06:52:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 30
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:52:59 UTC] PHP Warning:  sort() expects parameter 1 to be array, string given in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 06:52:59 UTC] PHP Stack trace:
+[18-Nov-2018 06:52:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:52:59 UTC] PHP   2. sort() /home/ubuntu/workspace/cst336/midterm/test.php:29
+[18-Nov-2018 06:57:07 UTC] PHP Fatal error:  Call to undefined function executeQuery() in /home/ubuntu/workspace/cst336/midterm/test.php on line 16
+[18-Nov-2018 06:57:07 UTC] PHP Stack trace:
+[18-Nov-2018 06:57:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:58:51 UTC] PHP Fatal error:  Call to undefined function executeQuery() in /home/ubuntu/workspace/cst336/midterm/test.php on line 16
+[18-Nov-2018 06:58:51 UTC] PHP Stack trace:
+[18-Nov-2018 06:58:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 06:59:21 UTC] PHP Parse error:  syntax error, unexpected 'mysql_connect' (T_STRING), expecting '{' in /home/ubuntu/workspace/cst336/midterm/test.php on line 20
+[18-Nov-2018 06:59:32 UTC] PHP Fatal error:  Call to undefined function executeQuery() in /home/ubuntu/workspace/cst336/midterm/test.php on line 16
+[18-Nov-2018 06:59:32 UTC] PHP Stack trace:
+[18-Nov-2018 06:59:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:00:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 07:00:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/cst336/midterm/test.php on line 29
+[18-Nov-2018 07:00:26 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 52
+[18-Nov-2018 07:00:26 UTC] PHP Stack trace:
+[18-Nov-2018 07:00:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:00:26 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:52
+[18-Nov-2018 07:00:28 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 52
+[18-Nov-2018 07:00:28 UTC] PHP Stack trace:
+[18-Nov-2018 07:00:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:00:28 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:52
+[18-Nov-2018 07:00:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 52
+[18-Nov-2018 07:00:29 UTC] PHP Stack trace:
+[18-Nov-2018 07:00:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:00:29 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:52
+[18-Nov-2018 07:00:30 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 52
+[18-Nov-2018 07:00:30 UTC] PHP Stack trace:
+[18-Nov-2018 07:00:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:00:30 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:52
+[18-Nov-2018 07:01:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:01:38 UTC] PHP Stack trace:
+[18-Nov-2018 07:01:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:01:38 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:01:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:01:39 UTC] PHP Stack trace:
+[18-Nov-2018 07:01:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:01:39 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:01:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:01:39 UTC] PHP Stack trace:
+[18-Nov-2018 07:01:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:01:39 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:02:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:02:34 UTC] PHP Stack trace:
+[18-Nov-2018 07:02:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:02:34 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:02:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:02:35 UTC] PHP Stack trace:
+[18-Nov-2018 07:02:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:02:35 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:03:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:03:23 UTC] PHP Stack trace:
+[18-Nov-2018 07:03:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:03:23 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:03:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:03:24 UTC] PHP Stack trace:
+[18-Nov-2018 07:03:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:03:24 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:03:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:03:25 UTC] PHP Stack trace:
+[18-Nov-2018 07:03:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:03:25 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:04:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:04:37 UTC] PHP Stack trace:
+[18-Nov-2018 07:04:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:04:37 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:04:37 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:04:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 65
+[18-Nov-2018 07:04:37 UTC] PHP Stack trace:
+[18-Nov-2018 07:04:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:04:37 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:65
+[18-Nov-2018 07:04:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:04:38 UTC] PHP Stack trace:
+[18-Nov-2018 07:04:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:04:38 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:5
+[18-Nov-2018 07:04:38 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:04:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 65
+[18-Nov-2018 07:04:38 UTC] PHP Stack trace:
+[18-Nov-2018 07:04:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:04:38 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:65
+[18-Nov-2018 07:04:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:04:39 UTC] PHP Stack trace:
+[18-Nov-2018 07:04:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:04:39 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:04:39 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:04:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 65
+[18-Nov-2018 07:04:39 UTC] PHP Stack trace:
+[18-Nov-2018 07:04:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:04:39 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:65
+[18-Nov-2018 07:05:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:05:46 UTC] PHP Stack trace:
+[18-Nov-2018 07:05:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:05:46 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:05:46 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:05:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 65
+[18-Nov-2018 07:05:46 UTC] PHP Stack trace:
+[18-Nov-2018 07:05:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:05:46 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:65
+[18-Nov-2018 07:05:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:05:47 UTC] PHP Stack trace:
+[18-Nov-2018 07:05:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:05:47 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:05:47 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:05:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 65
+[18-Nov-2018 07:05:47 UTC] PHP Stack trace:
+[18-Nov-2018 07:05:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:05:47 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:65
+[18-Nov-2018 07:05:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:05:48 UTC] PHP Stack trace:
+[18-Nov-2018 07:05:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:05:48 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:5
+[18-Nov-2018 07:05:48 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:05:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 65
+[18-Nov-2018 07:05:48 UTC] PHP Stack trace:
+[18-Nov-2018 07:05:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:05:48 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:65
+[18-Nov-2018 07:06:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:06:16 UTC] PHP Stack trace:
+[18-Nov-2018 07:06:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:06:16 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:5
+[18-Nov-2018 07:06:16 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:06:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 53
+[18-Nov-2018 07:06:16 UTC] PHP Stack trace:
+[18-Nov-2018 07:06:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:06:16 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:53
+[18-Nov-2018 07:06:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:06:35 UTC] PHP Stack trace:
+[18-Nov-2018 07:06:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:06:35 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:5
+[18-Nov-2018 07:06:35 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:06:35 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 54
+[18-Nov-2018 07:06:35 UTC] PHP Stack trace:
+[18-Nov-2018 07:06:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:06:35 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:54
+[18-Nov-2018 07:07:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/cst336/midterm/test.php on line 34
+[18-Nov-2018 07:11:16 UTC] PHP Fatal error:  Call to undefined function executeQuery() in /home/ubuntu/workspace/cst336/midterm/test.php on line 11
+[18-Nov-2018 07:11:16 UTC] PHP Stack trace:
+[18-Nov-2018 07:11:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:13:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 62
+[18-Nov-2018 07:13:09 UTC] PHP Stack trace:
+[18-Nov-2018 07:13:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:13:09 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:62
+[18-Nov-2018 07:13:10 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 62
+[18-Nov-2018 07:13:10 UTC] PHP Stack trace:
+[18-Nov-2018 07:13:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:13:10 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:62
+[18-Nov-2018 07:13:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 62
+[18-Nov-2018 07:13:11 UTC] PHP Stack trace:
+[18-Nov-2018 07:13:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:13:11 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:62
+[18-Nov-2018 07:13:29 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 62
+[18-Nov-2018 07:13:29 UTC] PHP Stack trace:
+[18-Nov-2018 07:13:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:13:29 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:62
+[18-Nov-2018 07:13:41 UTC] PHP Fatal error:  Call to undefined function executeQuery() in /home/ubuntu/workspace/cst336/midterm/test.php on line 11
+[18-Nov-2018 07:13:41 UTC] PHP Stack trace:
+[18-Nov-2018 07:13:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:15:56 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:15:56 UTC] PHP Stack trace:
+[18-Nov-2018 07:15:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:15:56 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:15:56 UTC] PHP   3. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:15:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:15:56 UTC] PHP Stack trace:
+[18-Nov-2018 07:15:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:15:56 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:15:56 UTC] PHP   3. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:15:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:15:56 UTC] PHP Stack trace:
+[18-Nov-2018 07:15:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:15:56 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:16:21 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:16:21 UTC] PHP Stack trace:
+[18-Nov-2018 07:16:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:16:21 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:16:21 UTC] PHP   3. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:16:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/cst336/midterm/test.php on line 28
+[18-Nov-2018 07:16:21 UTC] PHP Stack trace:
+[18-Nov-2018 07:16:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:16:21 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:16:21 UTC] PHP   3. mysql_query() /home/ubuntu/workspace/cst336/midterm/test.php:28
+[18-Nov-2018 07:16:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:16:21 UTC] PHP Stack trace:
+[18-Nov-2018 07:16:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:16:21 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:17:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:17:04 UTC] PHP Stack trace:
+[18-Nov-2018 07:17:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:17:04 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:17:06 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:17:06 UTC] PHP Stack trace:
+[18-Nov-2018 07:17:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:17:06 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:17:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:17:07 UTC] PHP Stack trace:
+[18-Nov-2018 07:17:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:17:07 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:17:07 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:17:07 UTC] PHP Stack trace:
+[18-Nov-2018 07:17:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:17:07 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:21:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 40
+[18-Nov-2018 07:21:13 UTC] PHP Stack trace:
+[18-Nov-2018 07:21:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:21:13 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:40
+[18-Nov-2018 07:21:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 40
+[18-Nov-2018 07:21:14 UTC] PHP Stack trace:
+[18-Nov-2018 07:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:21:14 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:40
+[18-Nov-2018 07:22:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 40
+[18-Nov-2018 07:22:50 UTC] PHP Stack trace:
+[18-Nov-2018 07:22:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:22:50 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:40
+[18-Nov-2018 07:22:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 40
+[18-Nov-2018 07:22:50 UTC] PHP Stack trace:
+[18-Nov-2018 07:22:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:22:50 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:40
+[18-Nov-2018 07:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 40
+[18-Nov-2018 07:24:25 UTC] PHP Stack trace:
+[18-Nov-2018 07:24:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:24:25 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:40
+[18-Nov-2018 07:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 40
+[18-Nov-2018 07:24:26 UTC] PHP Stack trace:
+[18-Nov-2018 07:24:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:24:26 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:40
+[18-Nov-2018 07:30:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 59
+[18-Nov-2018 07:30:54 UTC] PHP Stack trace:
+[18-Nov-2018 07:30:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:30:54 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:59
+[18-Nov-2018 07:34:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:34:23 UTC] PHP Stack trace:
+[18-Nov-2018 07:34:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:34:23 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:34:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:34:37 UTC] PHP Stack trace:
+[18-Nov-2018 07:34:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:34:37 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:34:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:34:38 UTC] PHP Stack trace:
+[18-Nov-2018 07:34:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:34:38 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:34:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:34:48 UTC] PHP Stack trace:
+[18-Nov-2018 07:34:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:34:48 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:34:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:34:49 UTC] PHP Stack trace:
+[18-Nov-2018 07:34:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:34:49 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:34:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:34:59 UTC] PHP Stack trace:
+[18-Nov-2018 07:34:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:34:59 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:35:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:35:07 UTC] PHP Stack trace:
+[18-Nov-2018 07:35:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:35:07 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:35:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:35:25 UTC] PHP Stack trace:
+[18-Nov-2018 07:35:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:35:25 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:35:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:35:26 UTC] PHP Stack trace:
+[18-Nov-2018 07:35:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:35:26 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:35:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:35:44 UTC] PHP Stack trace:
+[18-Nov-2018 07:35:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:35:44 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:36:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 58
+[18-Nov-2018 07:36:09 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:58
+[18-Nov-2018 07:36:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 55
+[18-Nov-2018 07:36:14 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:14 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:55
+[18-Nov-2018 07:36:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 44
+[18-Nov-2018 07:36:17 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:17 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:44
+[18-Nov-2018 07:36:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:36:28 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:28 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:36:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:36:44 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:44 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:36:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:36:45 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:45 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:36:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:36:45 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:45 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:36:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:36:46 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:46 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:36:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 61
+[18-Nov-2018 07:36:53 UTC] PHP Stack trace:
+[18-Nov-2018 07:36:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:36:53 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:61
+[18-Nov-2018 07:37:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 58
+[18-Nov-2018 07:37:01 UTC] PHP Stack trace:
+[18-Nov-2018 07:37:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:37:01 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:58
+[18-Nov-2018 07:37:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/test.php on line 58
+[18-Nov-2018 07:37:35 UTC] PHP Stack trace:
+[18-Nov-2018 07:37:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:37:35 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:58
+[18-Nov-2018 07:40:23 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 10
+[18-Nov-2018 07:40:23 UTC] PHP Stack trace:
+[18-Nov-2018 07:40:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:40:23 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 10
+[18-Nov-2018 07:40:23 UTC] PHP Stack trace:
+[18-Nov-2018 07:40:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:40:23 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/cst336/midterm/test.php on line 32
+[18-Nov-2018 07:40:23 UTC] PHP Stack trace:
+[18-Nov-2018 07:40:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:40:23 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:40:23 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:32
+[18-Nov-2018 07:40:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:40:23 UTC] PHP Stack trace:
+[18-Nov-2018 07:40:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:40:23 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:40:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/cst336/midterm/test.php on line 10
+[18-Nov-2018 07:40:42 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 10
+[18-Nov-2018 07:40:42 UTC] PHP Stack trace:
+[18-Nov-2018 07:40:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:40:42 UTC] PHP Warning:  Division by zero in /home/ubuntu/workspace/cst336/midterm/test.php on line 10
+[18-Nov-2018 07:40:42 UTC] PHP Stack trace:
+[18-Nov-2018 07:40:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:40:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/cst336/midterm/test.php on line 32
+[18-Nov-2018 07:40:42 UTC] PHP Stack trace:
+[18-Nov-2018 07:40:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:40:42 UTC] PHP   2. executeQuery() /home/ubuntu/workspace/cst336/midterm/test.php:11
+[18-Nov-2018 07:40:42 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/cst336/midterm/test.php:32
+[18-Nov-2018 07:40:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/cst336/midterm/test.php on line 64
+[18-Nov-2018 07:40:42 UTC] PHP Stack trace:
+[18-Nov-2018 07:40:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/test.php:0
+[18-Nov-2018 07:40:42 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/test.php:64
+[18-Nov-2018 07:40:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/cst336/midterm/test.php on line 14
+[18-Nov-2018 07:45:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 68
+[18-Nov-2018 07:45:59 UTC] PHP Stack trace:
+[18-Nov-2018 07:45:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:45:59 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:68
+[18-Nov-2018 07:46:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 68
+[18-Nov-2018 07:46:05 UTC] PHP Stack trace:
+[18-Nov-2018 07:46:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:46:05 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:68
+[18-Nov-2018 07:46:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 68
+[18-Nov-2018 07:46:28 UTC] PHP Stack trace:
+[18-Nov-2018 07:46:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:46:28 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:68
+[18-Nov-2018 07:46:29 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 68
+[18-Nov-2018 07:46:29 UTC] PHP Stack trace:
+[18-Nov-2018 07:46:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:46:29 UTC] PHP   2. mysql_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:68
+[18-Nov-2018 07:46:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 68
+[18-Nov-2018 07:46:36 UTC] PHP Stack trace:
+[18-Nov-2018 07:46:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:46:36 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:68
+[18-Nov-2018 07:48:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:48:10 UTC] PHP Stack trace:
+[18-Nov-2018 07:48:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:48:10 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[18-Nov-2018 07:48:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:48:51 UTC] PHP Stack trace:
+[18-Nov-2018 07:48:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:48:51 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[18-Nov-2018 07:49:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:49:34 UTC] PHP Stack trace:
+[18-Nov-2018 07:49:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:49:34 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[18-Nov-2018 07:49:48 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:49:48 UTC] PHP Stack trace:
+[18-Nov-2018 07:49:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:49:56 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:49:56 UTC] PHP Stack trace:
+[18-Nov-2018 07:49:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:52:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:52:17 UTC] PHP Stack trace:
+[18-Nov-2018 07:52:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:52:17 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[18-Nov-2018 07:54:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:54:00 UTC] PHP Stack trace:
+[18-Nov-2018 07:54:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:54:00 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[18-Nov-2018 07:54:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:54:14 UTC] PHP Stack trace:
+[18-Nov-2018 07:54:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:54:14 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[18-Nov-2018 07:54:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:54:15 UTC] PHP Stack trace:
+[18-Nov-2018 07:54:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:54:15 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[18-Nov-2018 07:54:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:54:27 UTC] PHP Stack trace:
+[18-Nov-2018 07:54:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:54:27 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[18-Nov-2018 07:54:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 67
+[18-Nov-2018 07:54:44 UTC] PHP Stack trace:
+[18-Nov-2018 07:54:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[18-Nov-2018 07:54:44 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:67
+[20-Nov-2018 04:59:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 83
+[20-Nov-2018 04:59:52 UTC] PHP Stack trace:
+[20-Nov-2018 04:59:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[20-Nov-2018 04:59:52 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:83
+[20-Nov-2018 05:06:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 83
+[20-Nov-2018 05:06:38 UTC] PHP Stack trace:
+[20-Nov-2018 05:06:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[20-Nov-2018 05:06:38 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:83
+[20-Nov-2018 05:10:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/cst336/midterm/midterm_program2.php on line 83
+[20-Nov-2018 05:10:21 UTC] PHP Stack trace:
+[20-Nov-2018 05:10:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:0
+[20-Nov-2018 05:10:21 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/cst336/midterm/midterm_program2.php:83
