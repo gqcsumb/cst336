@@ -27,8 +27,6 @@ $(".hintBtn").click(function() {
 });
 
 
-
-
 // FUNCTIONS
 function startGame() {
     pickWord();
