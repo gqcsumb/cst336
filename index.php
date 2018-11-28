@@ -22,9 +22,13 @@ echo "Gabriel Quan's CST336 Home Page";
 <br><br>
 <a href="labs/lab6/login.php"> Lab 6 </a>
 <br><br>
+<a href="labs/lab7/index.html"> Lab 7 </a>
+<br><br>
 <br><br>
 <a href="hw/hw1/cryptography.html"> Homework 1 </a>
 <br><br>
 <a href="hw/hw3/index.php"> Homework 3 </a>
+</body>
+<a href="hw/hw4/index.html"> Homework 4 </a>
 </body>
 </html>
