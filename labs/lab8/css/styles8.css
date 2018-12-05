@@ -1,0 +1,84 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.50em;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+}
+
+#quiz, #mascot {
+    display: inline-block;   
+    vertical-align: top;
+    padding:1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.answer {
+    margin: 5px;
+}
+
+.correct { /* For Correct Answers */
+    color: green;
+}
+ 
+.incorrect { /* For Incorrect Answers */
+    color: red;
+}
+
+#feedback {
+    display: none;  /*Hides feedback when accessing quiz */
+    margin: 0 auto;
+    text-align: center;
+    border: 0.1em solid lightblue;
+    border-width: 0.2em;
+    padding-bottom: 35px;
+}
+
+/*Content Wrapper for everything under user menu*/ 
+.content-wrapper {
+    top: 100px;
+    position: relative;
+    width:850px;
+    margin:0 auto;
+    text-align: auto;
+}
+
+/* User Fixed Menu When Logged In*/
+.user-menu {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    position: relative;
+    padding: 1em;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: lightblue;
+}
+
+#logoutBtn {
+    float: right;
+    margin-right: 3em;
+    font-size: 0.7em;
+    background-color: lightblue;
+}
+
+#submit {
+    width: 100%;
+    padding: 0.5em;
+    margin-right: 5em;
+    font-size: 1em;
+    background-color: lightblue;
+}
+
+#mascot {
+    border: 0.6em solid lightblue;
+}
+
+#quiz{
+    text-align: left;
+}
