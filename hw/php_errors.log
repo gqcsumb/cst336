@@ -3150,3 +3150,27 @@
 [14-Nov-2018 10:19:18 UTC] PHP   2. in_array() /home/ubuntu/workspace/cst336/hw/hw3/index.php:113
 [14-Nov-2018 10:54:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 134
 [14-Nov-2018 10:54:28 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/cst336/hw/hw3/index.php on line 134
+[09-Dec-2018 07:52:29 UTC] PHP Fatal error:  Call to undefined function message() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 8
+[09-Dec-2018 07:52:29 UTC] PHP Stack trace:
+[09-Dec-2018 07:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:0
+[09-Dec-2018 07:52:29 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:20
+[09-Dec-2018 07:52:40 UTC] PHP Fatal error:  Call to undefined function message() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 8
+[09-Dec-2018 07:52:40 UTC] PHP Stack trace:
+[09-Dec-2018 07:52:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:0
+[09-Dec-2018 07:52:40 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:20
+[09-Dec-2018 07:52:44 UTC] PHP Fatal error:  Call to undefined function message() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 8
+[09-Dec-2018 07:52:44 UTC] PHP Stack trace:
+[09-Dec-2018 07:52:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:0
+[09-Dec-2018 07:52:44 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:20
+[09-Dec-2018 07:52:46 UTC] PHP Fatal error:  Call to undefined function message() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 8
+[09-Dec-2018 07:52:46 UTC] PHP Stack trace:
+[09-Dec-2018 07:52:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:0
+[09-Dec-2018 07:52:46 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:20
+[09-Dec-2018 07:52:47 UTC] PHP Fatal error:  Call to undefined function message() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 8
+[09-Dec-2018 07:52:47 UTC] PHP Stack trace:
+[09-Dec-2018 07:52:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:0
+[09-Dec-2018 07:52:47 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:20
+[09-Dec-2018 07:52:48 UTC] PHP Fatal error:  Call to undefined function message() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 8
+[09-Dec-2018 07:52:48 UTC] PHP Stack trace:
+[09-Dec-2018 07:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:0
+[09-Dec-2018 07:52:48 UTC] PHP   2. play() /home/ubuntu/workspace/cst336/hw/hw2/index2.php:20

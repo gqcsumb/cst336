@@ -6,14 +6,12 @@
     
     body {
         background-color: black;
-        background-image:url("../img/bg7.jpg");
         color: white;
         
     }
     
     #main {
         font-family: 'Baloo Bhaina', cursive;
-        background-image:url("../img/machine.png");
         width:600px;
         height:500px;
         position:relative;
@@ -26,13 +24,13 @@
     }
     
     #reel1{
-        left:145px;
+        left:150px;
     }
     #reel2{
-        left:252px;
+        left:350px;
     }
     #reel3{
-        left:357px;
+        left:550px;
     }
     
     input{
