@@ -1,0 +1,229 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body, footer {
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+form {
+    text-align: center;
+    margin: auto;
+}
+
+.productResult {
+    border: olive solid;
+    background-color: tan;
+    color: forestgreen;
+    word-break: break-all;
+}
+
+.wrapper {
+    min-height: 100%;
+    
+    margin-bottom: -50px;
+}
+
+.push {
+    height: 50px;
+}
+
+footer {
+    border-top-style: solid;
+    border-color: sienna;
+    padding: 0.3em;
+    color: black;
+    text-align:center;
+    position: relative;
+    height: 50px;
+}
+
+/*#heroImages {*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*}*/
+
+#editForm button {
+    margin-top: 1.5em;
+}
+
+#backBtn {
+    margin-top: 1.5em;
+}
+
+#updateMessage {
+    text-align: center;
+    color: red;
+    font-size: 4em;
+}
+
+#deleteMessage {
+    text-align: center;
+    color: red;
+    font-size: 4em;
+}
+
+#editingMessage {
+    text-align: center !important;
+    font-size: 3em !important;
+    font-weight: bold !important;
+}
+
+#deleteBtn {
+    margin-top: 0.5em;
+}
+
+#newBtn {
+    margin-bottom: 1.5em;
+}
+
+#saveAnalyticsBtn {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#login {
+    text-align: center !important;
+}
+
+
+
+.heroesTitle {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    font-size: 4.0em;
+    color: orange;
+    background-color: black;
+    padding: 40px;
+}
+.heroesthumbnail {
+    margin: 10px auto;
+    width: 220px;
+    height: 500px;
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+    position:relative;
+}
+.heroesName {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.5em;
+    color: white;
+    padding: 20px;
+}
+.heroesDescription {
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 125px;
+}
+.heroesPrice {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.2em;
+    padding: 5px;
+    color: white;
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 75px;
+}
+.heroesBtn {
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 25px;
+}
+
+
+
+
+.toolsTitle {
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    color: red;
+    font-size: 4.0em;
+    background-color: black;
+    padding: 40px;
+}
+.toolsthumbnail {
+    margin: 10px auto;
+    width: 220px;
+    height: 500px;
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+    position:relative;
+}
+.toolsName {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.5em;
+    color: white;
+    padding: 20px;
+}
+.toolsDescription {
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 125px;
+}
+.toolsPrice {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 1.2em;
+    padding: 5px;
+    color: white;
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 75px;
+}
+.toolsBtn {
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    bottom: 25px;
+}
+
+
+
+
+#heroesModal, #toolsModal {
+    font-family: 'Permanent Marker', cursive;
+}
+#heroesModalHeader {
+    border-top:10px solid orange;
+    border-bottom:10px solid orange;
+}
+#toolsModalHeader {
+    border-top:10px solid red;
+    border-bottom:10px solid red;
+}
+.modal-header {
+    text-align: center;
+    font-size: 2.5em;
+    padding:20px;
+    background-color: black;
+    color: white;
+}
+.modal-body {
+    text-align: center;
+    font-size: 1.8em;
+    padding:15px;
+    background-color: black;
+    color: white;
+}
+
+
+
+#checkout {
+    font-family: 'Permanent Marker', cursive;
+}
