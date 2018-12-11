@@ -34,5 +34,9 @@ echo "Gabriel Quan's CST336 Home Page";
 <a href="hw/hw3/index.php"> Homework 3 </a>
 <br><br>
 <a href="hw/hw4/index.html"> Homework 4 </a>
+<br><br>
+<br><br>
+<a href="Final/index.php"> Final Project </a>
+
 </body>
 </html>
